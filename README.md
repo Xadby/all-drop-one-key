@@ -3,7 +3,7 @@
 Client-side Fabric mod for Minecraft 26.3: press one key to drop your entire inventory
 (main inventory, hotbar, armor and offhand).
 
-- Default key: **O** — rebind it in *Options → Controls → Key Binds → Inventory → "Drop Entire Inventory"*.
+- Default key: **U** (O is taken by the vanilla Friends key in 26.3) — rebind it in *Options → Controls → Key Binds → Inventory → "Drop Entire Inventory"*.
 - Works on vanilla servers (it uses the same packets as Ctrl+Q).
 
 ## Requirements

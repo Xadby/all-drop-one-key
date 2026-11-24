@@ -20,7 +20,7 @@ public class AllDropOneKeyClient implements ClientModInitializer {
 	private static final KeyMapping DROP_ALL_KEY = new KeyMapping(
 			"key.adok.drop_all",
 			InputConstants.Type.KEYBOARD,
-			InputConstants.KEY_O,
+			InputConstants.KEY_U,
 			KeyMapping.Category.INVENTORY
 	);
 

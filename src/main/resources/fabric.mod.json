@@ -3,7 +3,7 @@
 	"id": "adok",
 	"version": "${version}",
 	"name": "All Drop One Key",
-	"description": "Drop your entire inventory with a single key (O by default, rebindable in Controls).",
+	"description": "Drop your entire inventory with a single key (U by default, rebindable in Controls).",
 	"authors": [
 		"Xadby"
 	],
