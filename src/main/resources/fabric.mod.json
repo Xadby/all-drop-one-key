@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "adok",
+	"version": "${version}",
+	"name": "All Drop One Key",
+	"description": "Drop your entire inventory with a single key (O by default, rebindable in Controls).",
+	"authors": [
+		"Xadby"
+	],
+	"contact": {
+		"sources": "https://github.com/Xadby/all-drop-one-key"
+	},
+	"license": "MIT",
+	"icon": "assets/adok/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": [
+			"io.github.xadby.adok.AllDropOneKeyClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}
