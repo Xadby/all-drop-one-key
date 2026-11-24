@@ -6,6 +6,10 @@ Client-side Fabric mod for Minecraft 26.3: press one key to drop your entire inv
 - Default key: **U** (O is taken by the vanilla Friends key in 26.3) — rebind it in *Options → Controls → Key Binds → Inventory → "Drop Entire Inventory"*.
 - Works on vanilla servers (it uses the same packets as Ctrl+Q).
 
+## Download
+
+Grab the jar from [Releases](https://github.com/Xadby/all-drop-one-key/releases).
+
 ## Requirements
 
 - Minecraft 26.3
@@ -20,6 +24,10 @@ Client-side Fabric mod for Minecraft 26.3: press one key to drop your entire inv
 ```
 
 The mod jar is written to `build/libs/`.
+
+## Releasing
+
+Push a tag like `v1.0.1`; the `release` workflow builds the jar and attaches it to a GitHub Release. See `publishing/` for the Modrinth/CurseForge description and checklist.
 
 ## License
 
